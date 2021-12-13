@@ -1,0 +1,28 @@
+/*common*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+/*hidden*/
+.hidden{
+    display: none;
+}
+/*font small*/
+.small-font{
+    text-align: center;
+    position: relative;
+
+}
+.space{
+    padding: 70px 45px;
+    height: 75%;
+
+}
+#space-1 img,#space-3 img{
+    float: right;
+}
+#space-2 img,#space-4 img{
+    float: left;
+}
+  
